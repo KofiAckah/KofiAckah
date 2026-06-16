@@ -67,7 +67,7 @@ I am a passionate DevOps Engineer currently at AmaliTech. I thrive on automating
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kofiackah&show_icons=true&locale=en&layout=compact" alt="kofiackah" /></p>
 
   <br />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=KofiAckah&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kofiackah)](https://git.io/streak-stats)
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kofiackah" alt="GitHub Streak" /></a>
 </details>
 
