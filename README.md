@@ -68,9 +68,6 @@ I am a passionate DevOps Engineer currently at AmaliTech. I thrive on automating
 
   <br />
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kofiackah)](https://git.io/streak-stats)
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kofiackah" alt="GitHub Streak" /></a>
-  
   [![GitHub Streak](https://streak-stats.demolab.com?user=KofiAckah&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=KofiAckah&show_icons=true&theme=synthwave" />
 </details>
